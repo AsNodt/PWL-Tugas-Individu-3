@@ -1,0 +1,33 @@
+
+.navbar {
+    background-color: rgb(229, 231, 231);
+    margin: auto;
+    display: flex;
+    padding: 50px;
+    text-align: center;
+}
+
+.pp {
+    padding: 20px;
+    margin: auto;
+    color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+    text-decoration: none;
+
+}
+
+.footer {
+    background-color: aqua;
+    text-align: center;
+    margin-top: 500px;
+}
+
+.fom {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 100px 400px;
+    padding: 50px 200px;
+    border-radius: 15px;
+}
